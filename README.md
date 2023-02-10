@@ -16,7 +16,7 @@ npm install @sitownle/useAutoResize
 
 ## Usage
 
-📖 [View the documentation site for usage instructions](https://sitownle.dev/experimental/auto-resize).
+📖 [View my site for usage instructions](https://sitownle.dev/experimental/auto-resize).
 
 ## Contributing
 
