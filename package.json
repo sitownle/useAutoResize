@@ -1,0 +1,27 @@
+{
+  "name": "useautoresize",
+  "version": "1.0.0",
+  "description": "Small hook to simplify width/height animations",
+  "main": "useAutoResize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitownle/useAutoResize.git"
+  },
+  "keywords": [
+    "animate",
+    "resize",
+    "width",
+    "height",
+    "slide",
+    "hook"
+  ],
+  "author": "Simon Townley-Smith <simon.ww.ts@gmail.com> (https://sitownle.dev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sitownle/useAutoResize/issues"
+  },
+  "homepage": "https://github.com/sitownle/useAutoResize#readme"
+}
