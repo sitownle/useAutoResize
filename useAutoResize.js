@@ -5,12 +5,13 @@ export default function useAutoResize(config) {
   const targ = useRef();
   const dir = config ? config.direction.toLowerCase() : "left";
   const o = dir == "top" || dir == "bottom" ? "Y" : "X";
+  //const opac = config?.opacity;
+  //const minH = config?.minHeight;
   if (targ.current) {
     targ.current.style.transition = "all 0.20s ease";
     targ.current.style.whiteSpace = "nowrap";
+    targ.current.willChange = "contents";
   }
-  //const opac = config?.opacity;
-  //const minH = config?.minHeight;
 
   function toggle() {
     if (targ.current) {
