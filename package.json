@@ -1,7 +1,7 @@
 {
-  "name": "useautoresize",
+  "name": "@sitownle/use-auto-resize",
   "version": "1.0.0",
-  "description": "Small hook to simplify width/height animations",
+  "description": "Small hook to simplify width/height animations in react.",
   "main": "useAutoResize.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,10 +13,13 @@
   "keywords": [
     "animate",
     "resize",
+    "scale",
     "width",
     "height",
     "slide",
-    "hook"
+    "collapse",
+    "hook",
+    "transition"
   ],
   "author": "Simon Townley-Smith <simon.ww.ts@gmail.com> (https://sitownle.dev)",
   "license": "ISC",

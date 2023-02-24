@@ -4,15 +4,18 @@ useAutoResize is a tiny but configurable animation utility that makes resizing a
 
 For Example:
 
-<a href="https://sitownle.dev/experimental/auto-resize">
+![alt text](https://github.com/sitownle/useAutoResize/blob/main/useAutoResizeDemo.gif?raw=true)
+
+<!-- <a href="https://sitownle.dev/experimental/auto-resize">
   <img src="" alt="useAutoResize example">
-</a>
+</a> -->
 
 ## Installation
 
+```bash
 # npm
-
 npm install @sitownle/useAutoResize
+```
 
 ## Usage
 
