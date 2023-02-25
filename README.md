@@ -1,14 +1,10 @@
 # Add motion to your apps with a single line of code.
 
-useAutoResize is a tiny but configurable animation utility that makes resizing animations in react incredibly simple.
+useAutoResize is a tiny and minimally configurable animation utility that makes adding resizing animations in react incredibly simple.
 
 For Example:
 
 ![alt text](https://github.com/sitownle/useAutoResize/blob/main/useAutoResizeDemo.gif?raw=true)
-
-<!-- <a href="https://sitownle.dev/experimental/auto-resize">
-  <img src="" alt="useAutoResize example">
-</a> -->
 
 ## Installation
 
