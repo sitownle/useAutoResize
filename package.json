@@ -1,6 +1,6 @@
 {
   "name": "@sitownle/use-auto-resize",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "type": "module",
   "description": "Small hook to simplify width/height animations in react.",
   "main": "useAutoResize.js",
@@ -19,6 +19,7 @@
     "height",
     "slide",
     "collapse",
+    "expand",
     "hook",
     "transition"
   ],

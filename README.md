@@ -1,4 +1,4 @@
-# Add motion to your apps with a single line of code.
+# Smoothly resize elements in React with ~1kb of JS
 
 useAutoResize is a tiny and minimally configurable animation utility that makes adding resizing animations in react incredibly simple.
 
